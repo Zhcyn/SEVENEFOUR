@@ -1,2 +1,4 @@
 # SEVENEFOUR
-A defense application on road traffic problems. The current project is still under test, and the current main test interface is the continuity and logical integrity. If you encounter problems during the test, please contact me.
+Приложение защиты от проблем дорожного движения.
+Текущий проект все еще находится на стадии тестирования, и текущий основной интерфейс тестирования - это непрерывность и логическая целостность.
+Если во время теста у вас возникнут проблемы, свяжитесь со мной.
